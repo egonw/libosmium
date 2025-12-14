@@ -89,7 +89,7 @@ between compilers due to different C++11 support.
 
 ## Operating systems
 
-Usually all code must work on Linux, macOS, and Windows. Execptions are allowed
+Usually all code must work on Linux, macOS, and Windows. Exceptions are allowed
 for some minor functionality, but please discuss this first.
 
 When writing code and tests, care must be taken that everything works with the
